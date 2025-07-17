@@ -69,6 +69,13 @@
 - 💼 [LinkedIn (Optional)](https://www.linkedin.com)  
 - 🌐 [My Portfolio (Optional)](https://your-portfolio-link.com)
 
+
+---
+
+### 🧙‍♂️ Coding is modern-day wizardry:
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&width=600&lines=Keep+learning+and+keep+coding.;Coding+is+modern-day+wizardry+—+with+just+a+keyboard+and+imagination,+you+can+build+worlds,+solve+problems,+and+shape+the+future.&center=true&size=20" alt="Typing SVG" />
+</div>
 ---
 
 <p align="center">
