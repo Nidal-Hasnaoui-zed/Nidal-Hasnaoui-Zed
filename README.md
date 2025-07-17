@@ -82,7 +82,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nidal-Hasnaoui-zed&layout=compact&theme=radical" />
 </p>
 <p align="center">
-  <img src="[https://streak-stats.demolab.com/?user=Nidal-Hasnaoui-zed&theme=radical](https://streak-stats.demolab.com/?user=Nidal-Hasnaoui-zed)" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nidal-Hasnaoui-zed&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
