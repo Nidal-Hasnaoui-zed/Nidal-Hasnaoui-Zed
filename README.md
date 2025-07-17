@@ -81,18 +81,17 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nidal-Hasnaoui-zed&layout=compact&theme=radical" />
 </p>
-<p align="center">
+
+<!--later try to make this work okey ? -->
+<!-- <p align="center">
   <img src=""https://github-readme-streak-stats.herokuapp.com alt="GitHub Streak" />
-</p>
+</p> -->
 
 
----
 
-### 🎯 Problem Solving & Logic
+
 
 <p align="center">
-  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="250" alt="Coding Logic" />
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="250" alt="GitHub Flow" />
   <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="250" alt="Chess Strategy" />
 </p>
 
