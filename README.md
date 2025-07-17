@@ -75,7 +75,7 @@
 
 ### 📈 GitHub Stats
 
-<p align="left">
+<p align="left" style='display:inline'>
   <img src="https://github-readme-stats.vercel.app/api?username=Nidal-Hasnaoui-zed&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
 <p align="left">
