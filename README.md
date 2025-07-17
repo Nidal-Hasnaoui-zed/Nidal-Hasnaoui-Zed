@@ -75,12 +75,18 @@
 
 ### 📈 GitHub Stats
 
-<p align="left" style='display:inline'>
+<div style='display: grid;
+      grid-template-columns: 2fr 1fr;
+      gap : 20px ; 
+    '>
+ <div>
+    <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Nidal-Hasnaoui-zed&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nidal-Hasnaoui-zed&layout=compact&theme=radical" />
 </p>
+ </div>
 
 <!--later try to make this work okey ? -->
 <!-- <p align="center">
@@ -91,10 +97,13 @@
 
 
 
-<p align="right">
+<div>
+  <p align="right">
   <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="250" alt="Chess Strategy" />
 </p>
+</div>
 
+</div>
 ---
 
 ### 📬 Contact Me
