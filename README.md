@@ -99,7 +99,7 @@
 
 <div>
   <p align="right">
-  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="250" alt="Chess Strategy" />
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="250" alt="GitHub Flow" />
 </p>
 </div>
 
