@@ -6,14 +6,8 @@
 <!-- Introduction -->
 <h2 align="center">👨‍💻 Full Stack Developer | 🧠 Future Data Scientist | ♟️ Chess Strategist</h2>
 
----
 
-## 🚀 About Me
 
-🧑‍💻 I'm a passionate **Back-End Developer** with a deep love for logic and problem-solving.  
-💡 I'm currently mastering **Python, Django, SQL, and Data Analysis**.  
-🎯 I enjoy building full-stack web apps, solving bugs, and learning new technologies.  
-📈 I also play chess to sharpen my mind and apply strategy in both life and code!
 
 ---
 ### 🧠 About Me
