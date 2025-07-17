@@ -1,39 +1,57 @@
-<!-- Banner Image -->
-<div style="background-color: #161B22; padding: 30px; border-radius: 15px; max-width: 700px; margin: auto;">
-  <p align="center" style="background-color: #0D1117; padding: 20px; border-radius: 15px;">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=150&section=header&text=Hi%20I'm%20Nidal%20Hasnaoui!&fontSize=40&fontColor=C9D1D9&animation=fadeIn" alt="Nidal Hasnaoui" />
-  </p>
+<!-- Banner -->
+<div align="center" style="margin-bottom: 30px;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=160&section=header&text=Hi%20I'm%20Nidal%20Hasnaoui!&fontSize=40&fontColor=C9D1D9&animation=fadeIn" alt="Nidal Hasnaoui Banner"/>
 </div>
 
-
-
 <!-- Introduction -->
-<h2 align="center">👨‍💻 Full Stack Developer | 🧠 Future Data Scientist | ♟️ Chess Strategist</h2>
-
-
-
+<h2 align="center">🧑‍💻 Backend Developer | 📊 Data Enthusiast | ♟️ Chess Tactician</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Passionate+about+coding+%26+logic;Love+building+backend+architectures;Chess+%2B+Code+%3D+Strategy" alt="Typing SVG" />
+</p>
 
 ---
+
 ### 🧠 About Me
 
-- 🔭 I’m currently working on building backend projects with PHP & SQL  
-- 🌱 I’m currently learning **Laravel**, **Flask**, and **Django**  
-- 👯 I’m looking to collaborate on anything that solves a real-world problem  
-- 🧠 I love math, logic, and turning ideas into powerful apps  
-- ⚡ Fun fact: I mix coding with chess strategy — same logic, same mindset!
+- 🔧 Currently working on backend projects using **PHP, SQL, and Laravel**
+- 🔍 Learning advanced concepts in **Flask**, **Django**, and **API design**
+- 🤝 Open to collaboration on backend systems or automation tools
+- ♟️ Logic-driven: I see programming like chess — anticipate, plan, and execute
+- 🎯 Mission: Transform ideas into scalable, real-world applications
 
 ---
 
-### 🚀 Tech Stack
+### ⚙️ Tech Stack
 
+#### 🛠️ Languages & Frameworks
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-E74430?style=for-the-badge&logo=laravel&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+#### 🗃️ Databases & Tools
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+#### 🧰 Dev Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+### 🧪 Tools & Skills
+
+- ✅ API Development (RESTful APIs)
+- ✅ Database Design & Optimization
+- ✅ MVC Architecture
+- ✅ Authentication & Authorization
+- ✅ Git Workflow (Branching, Merging, PRs)
+- ✅ Deployment (XAMPP, Localhost, GitHub Pages)
 
 ---
 
@@ -42,35 +60,51 @@
 | Project | Description | Tech |
 |--------|-------------|------|
 | 📝 **Todo List App** | Organize tasks with categories & difficulty | PHP, MySQL, Bootstrap |
-| 📊 **Data Dashboard** | Visualize data using charts and backend APIs | Flask, Chart.js, Pandas |
-| ♟️ **Chess Strategy Guide** | Learn chess with logic and coding combined | HTML, JS, Notion |
+| 📊 **Data Dashboard** | Visualize data using charts and backend APIs | Flask, Pandas, Chart.js |
+| ♟️ **Chess Strategy Guide** | Learn chess with logic and coding | HTML, JS, Notion |
 
 ---
 
-### 📈 My GitHub Stats
+### 🏆 Certifications & Achievements
+
+- 🎓 Completed Cybersecurity Labs on **TryHackMe**
+- 🎖️ Solved >100 Logic Challenges on **HackTheBox**
+- 🧠 Finished backend bootcamp: PHP & Laravel specialization
+
+---
+
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nidal-Hasnaoui-zed&show_icons=true&theme=radical" alt="Nidal Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nidal-Hasnaoui-zed&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nidal-Hasnaoui-zed&layout=compact&theme=radical" />
 </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Nidal-Hasnaoui-zed&theme=radical" alt="GitHub Streak" />
+</p>
 
+---
+
+### 🎯 Problem Solving & Logic
+
+<p align="center">
+  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="250" alt="Coding Logic" />
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="250" alt="GitHub Flow" />
+  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="250" alt="Chess Strategy" />
+</p>
 
 ---
 
 ### 📬 Contact Me
 
-- 📧 **nidal.dev.contact@gmail.com**  
-- 💼 [LinkedIn (Optional)](https://www.linkedin.com)  
-- 🌐 [My Portfolio (Optional)](https://your-portfolio-link.com)
-
+- 📧 **nidal.dev.contact@gmail.com**
+- 💼 [LinkedIn (optional)](https://linkedin.com)
+- 🌐 [Portfolio (optional)](https://your-portfolio-link.com)
 
 ---
 
-
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
