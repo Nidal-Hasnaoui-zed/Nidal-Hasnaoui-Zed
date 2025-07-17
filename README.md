@@ -53,13 +53,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nidal-Hasnaoui-zed&layout=compact&theme=radical" />
 </p>
 
----
-
-### ⚡ Quote of the Day
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=3000&color=F70000&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Coding+is+modern-day+wizardry+—+with+just+a+keyboard+and+imagination;+you+can+build+worlds%2C+solve+problems%2C+and+shape+the+future."/>
-</p>
 
 ---
 
@@ -72,11 +65,7 @@
 
 ---
 
-### 🧙‍♂️ Coding is modern-day wizardry:
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&width=600&lines=Keep+learning+and+keep+coding.;Coding+is+modern-day+wizardry+—+with+just+a+keyboard+and+imagination,+you+can+build+worlds,+solve+problems,+and+shape+the+future.&center=true&size=20" alt="Typing SVG" />
-</div>
----
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
