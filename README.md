@@ -1,7 +1,8 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=250&section=header&text=Hi%20I'm%20Nidal%20Hasnaoui!&fontSize=40&fontColor=#1c1f26&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=250&section=header&text=Hi%20I'm%20Nidal%20Hasnaoui!&fontSize=40&fontColor=58A6FF&animation=fadeIn" />
 </p>
+
 
 <!-- Introduction -->
 <h2 align="center">👨‍💻 Full Stack Developer | 🧠 Future Data Scientist | ♟️ Chess Strategist</h2>
