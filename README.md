@@ -75,10 +75,10 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Nidal-Hasnaoui-zed&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nidal-Hasnaoui-zed&layout=compact&theme=radical" />
 </p>
 
@@ -91,7 +91,7 @@
 
 
 
-<p align="center">
+<p align="right">
   <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="250" alt="Chess Strategy" />
 </p>
 
