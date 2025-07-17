@@ -75,35 +75,26 @@
 
 ### 📈 GitHub Stats
 
-<div style='display: grid;
-      grid-template-columns: 2fr 1fr;
-      gap : 20px ; 
-    '>
- <div>
-    <p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nidal-Hasnaoui-zed&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nidal-Hasnaoui-zed&layout=compact&theme=radical" />
 </p>
- </div>
-
-<!--later try to make this work okey ? -->
-<!-- <p align="center">
-  <img src=""https://github-readme-streak-stats.herokuapp.com alt="GitHub Streak" />
-</p> -->
-
-
-
-
-
-<div>
-  <p align="right">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="250" alt="GitHub Flow" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Nidal-Hasnaoui-zed&theme=radical" alt="GitHub Streak" />
 </p>
-</div>
 
-</div>
+---
+
+### 🎯 Problem Solving & Logic
+
+<p align="center">
+  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="250" alt="Coding Logic" />
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="250" alt="GitHub Flow" />
+  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="250" alt="Chess Strategy" />
+</p>
+
 ---
 
 ### 📬 Contact Me
