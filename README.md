@@ -81,21 +81,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nidal-Hasnaoui-zed&layout=compact&theme=radical" />
 </p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Nidal-Hasnaoui-zed&theme=radical" alt="GitHub Streak" />
-</p>
-
 ---
 
-### 🎯 Problem Solving & Logic
 
-<p align="center">
-  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="250" alt="Coding Logic" />
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="250" alt="GitHub Flow" />
-  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="250" alt="Chess Strategy" />
-</p>
-
----
 
 ### 📬 Contact Me
 
