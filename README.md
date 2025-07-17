@@ -1,7 +1,10 @@
 <!-- Banner Image -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=250&section=header&text=Hi%20I'm%20Nidal%20Hasnaoui!&fontSize=40&fontColor=58A6FF&animation=fadeIn" />
-</p>
+<div style="background-color: #161B22; padding: 30px; border-radius: 15px; max-width: 700px; margin: auto;">
+  <p align="center" style="background-color: #0D1117; padding: 20px; border-radius: 15px;">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=150&section=header&text=Hi%20I'm%20Nidal%20Hasnaoui!&fontSize=40&fontColor=C9D1D9&animation=fadeIn" alt="Nidal Hasnaoui" />
+  </p>
+</div>
+
 
 
 <!-- Introduction -->
