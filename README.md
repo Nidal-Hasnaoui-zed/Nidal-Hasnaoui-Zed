@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=250&section=header&text=Hi%20I'm%20Nidal%20Hasnaoui!&fontSize=40&fontColor=selver&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=250&section=header&text=Hi%20I'm%20Nidal%20Hasnaoui!&fontSize=40&fontColor=#1c1f26&animation=fadeIn" />
 </p>
 
 <!-- Introduction -->
