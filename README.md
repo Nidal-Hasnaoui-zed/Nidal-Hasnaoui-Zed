@@ -16,55 +16,67 @@
 📈 I also play chess to sharpen my mind and apply strategy in both life and code!
 
 ---
+### 🧠 About Me
 
-## 🛠️ Tech Stack
-
-<img src="https://skillicons.dev/icons?i=python,django,flask,html,css,js,bootstrap,mysql,sqlite,git,github,vscode" />
+- 🔭 I’m currently working on building backend projects with PHP & SQL  
+- 🌱 I’m currently learning **Laravel**, **Flask**, and **Django**  
+- 👯 I’m looking to collaborate on anything that solves a real-world problem  
+- 🧠 I love math, logic, and turning ideas into powerful apps  
+- ⚡ Fun fact: I mix coding with chess strategy — same logic, same mindset!
 
 ---
 
-## 📊 GitHub Stats
+### 🚀 Tech Stack
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-E74430?style=for-the-badge&logo=laravel&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+### 📂 Featured Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| 📝 **Todo List App** | Organize tasks with categories & difficulty | PHP, MySQL, Bootstrap |
+| 📊 **Data Dashboard** | Visualize data using charts and backend APIs | Flask, Chart.js, Pandas |
+| ♟️ **Chess Strategy Guide** | Learn chess with logic and coding combined | HTML, JS, Notion |
+
+---
+
+### 📈 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nidal-Hasnaoui-zed&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nidal-Hasnaoui-zed&layout=compact&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nidal-Hasnaoui-zed&show_icons=true&theme=radical" alt="Nidal Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nidal-Hasnaoui-zed&layout=compact&theme=radical" />
 </p>
 
 ---
 
-## 🧠 Currently Learning
-
-- Advanced Django 🕸️  
-- REST APIs & Backend Architecture  
-- Data Analysis with Pandas and NumPy 📊  
-- Chess Openings & Strategy ♟️
-
----
-
-## 🎯 Goals for 2025
-
-- ✅ Become a full-stack web developer  
-- ✅ Master data analysis  
-- 🚀 Build a powerful Django project  
-- 📚 Teach others what I’ve learned  
-- 🎥 Launch a YouTube or Instagram page about **Coding + Chess**
-
----
-
-## 📬 Connect With Me
+### ⚡ Quote of the Day
 
 <p align="center">
-  <a href="mailto:nidalhasnaouizzz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Nidal-Hasnaoui-zed"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-StrategyCoding-orange?style=for-the-badge&logo=instagram" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=3000&color=F70000&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Coding+is+modern-day+wizardry+—+with+just+a+keyboard+and+imagination;+you+can+build+worlds%2C+solve+problems%2C+and+shape+the+future."/>
 </p>
 
 ---
 
+### 📬 Contact Me
+
+- 📧 **nidal.dev.contact@gmail.com**  
+- 💼 [LinkedIn (Optional)](https://www.linkedin.com)  
+- 🌐 [My Portfolio (Optional)](https://your-portfolio-link.com)
+
+---
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Keep+Learning+%F0%9F%93%9A;Keep+Coding+%F0%9F%94%A5;Never+Give+Up+%F0%9F%92%AA" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app
-
