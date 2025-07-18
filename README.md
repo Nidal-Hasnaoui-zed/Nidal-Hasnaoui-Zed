@@ -76,9 +76,16 @@
 
 ### 📈 GitHub Stats
 
-![Nidal-Hasnaoui-zed's Stats](https://github-readme-stats.vercel.app/api?username=Nidal-Hasnaoui-zed&theme=blueberry&show_icons=true&hide_border=false&count_private=true)
-![Nidal-Hasnaoui-zed's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nidal-Hasnaoui-zed&theme=blueberry&hide_border=false)
+<div align='left'>
+  ![Nidal-Hasnaoui-zed's Stats](https://github-readme-stats.vercel.app/api?username=Nidal-Hasnaoui-zed&theme=blueberry&show_icons=true&hide_border=false&count_private=true)
+</div>
+
+<div>
+  
 ![Nidal-Hasnaoui-zed's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nidal-Hasnaoui-zed&theme=blueberry&show_icons=true&hide_border=false&layout=compact)
+</div>
+
+![Nidal-Hasnaoui-zed's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nidal-Hasnaoui-zed&theme=blueberry&hide_border=false)
 ---
 
 
