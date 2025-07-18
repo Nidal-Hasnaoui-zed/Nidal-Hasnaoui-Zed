@@ -77,7 +77,7 @@
 ### 📈 GitHub Stats
 
 <div align='left'  style='margin-bottom:20px'>
-   ![Nidal-Hasnaoui-zed's Stats](https://github-readme-stats.vercel.app/api?username=Nidal-Hasnaoui-zed&theme=blueberry&show_icons=true&hide_border=false&count_private=true)
+![Nidal-Hasnaoui-zed's Stats](https://github-readme-stats.vercel.app/api?username=Nidal-Hasnaoui-zed&theme=blueberry&show_icons=true&hide_border=false&count_private=true)
 </div>
 
 <div align='right' style='margin-left:10px'>
