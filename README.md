@@ -77,13 +77,14 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nidal-Hasnaoui-zed&theme=blueberry&show_icons=true&hide_border=false&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nidal-Hasnaoui-zed&theme=blueberry&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nidal-Hasnaoui-zed&theme=blueberry&show_icons=true&hide_border=false&count_private=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nidal-Hasnaoui-zed&theme=blueberry&hide_border=false" height="180" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nidal-Hasnaoui-zed&theme=blueberry&show_icons=true&hide_border=false&layout=compact" />
 </p>
+
 
 
 ---
@@ -100,4 +101,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
----
+
