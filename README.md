@@ -76,17 +76,15 @@
 
 ### 📈 GitHub Stats
 
-<div align='left' style='margin-bottom:20px'>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nidal-Hasnaoui-zed&theme=blueberry&show_icons=true&hide_border=false&count_private=true" />
-</div>
-
-<div align='right' style='margin-left:10px'>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nidal-Hasnaoui-zed&theme=blueberry&hide_border=false" />
-</div>
+</p>
 
-<div align='center'>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nidal-Hasnaoui-zed&theme=blueberry&show_icons=true&hide_border=false&layout=compact" />
-</div>
+</p>
+
 
 ---
 
