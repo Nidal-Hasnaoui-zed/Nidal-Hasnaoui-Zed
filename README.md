@@ -4,7 +4,7 @@
 </div>
 
 <!-- Introduction -->
-<h2 align="center">🧑‍💻 Backend Developer | 📊 Data Enthusiast | ♟️ Chess Tactician</h2>
+<h2 align="center">🧑‍💻 Backend Developer | ♟️ Chess Tactician</h2>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Passionate+about+coding+%26+logic;Love+building+backend+architectures;Chess+%2B+Code+%3D+Strategy" alt="Typing SVG" />
 </p>
