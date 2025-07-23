@@ -14,7 +14,7 @@
 ### 🧠 About Me
 
 - 🔧 Currently working on backend projects using **PHP, SQL, and Laravel**
-- 🔍 Learning advanced concepts in **Flask**, **Django**, and **API design**
+- 🔍 Learning advanced concepts in **PHP**, **Laravel**, and **API design** and **Node.js** and **Express**
 - 🤝 Open to collaboration on backend systems or automation tools
 - ♟️ Logic-driven: I see programming like chess — anticipate, plan, and execute
 - 🎯 Mission: Transform ideas into scalable, real-world applications
