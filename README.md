@@ -102,9 +102,10 @@
 - 🌐 [Portfolio (optional)](https://your-portfolio-link.com)
  
 ---
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nidal-Hasnaoui-zed)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
+
 
