@@ -83,7 +83,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nidal-Hasnaoui-zed&theme=blueberry&show_icons=true&hide_border=false&count_private=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nidal-Hasnaoui-zed&theme=blueberry&hide_border=false" height="180" />
+ 
 </p>
 
 <p align="center">
